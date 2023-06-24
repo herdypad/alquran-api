@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/openjdk-11/bin/caches/transforms-3/1aaf0e0d2859c48f689a680f9559e4ef/transformed/coordinatorlayout-1.1.0-beta01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/openjdk-11/bin/caches/transforms-3/1aaf0e0d2859c48f689a680f9559e4ef/transformed/coordinatorlayout-1.1.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/openjdk-11/bin/caches/transforms-3/1aaf0e0d2859c48f689a680f9559e4ef/transformed/coordinatorlayout-1.1.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/openjdk-11/bin/caches/transforms-3/1aaf0e0d2859c48f689a680f9559e4ef/transformed/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/openjdk-11/bin/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0-beta01/a45ac5ec39e8dfbde8d4ab8391272a483e68c5a2/coordinatorlayout-1.1.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
